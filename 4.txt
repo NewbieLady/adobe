@@ -1,4 +1,3 @@
-https://www.coursera.org/learn/adobe-graphic-design/assignment-submission/1bAn9/final-assessment/attempt
 You're finalizing a client's design proposal and need to ensure that all design elements are precisely aligned within the PDF. Which Adobe Acrobat tool will help you achieve this?|Grids, guides, and measurement tools
 You need to quickly find a client's specific comment in a long PDF filled with design feedback. Which Acrobat feature will help you locate it most efficiently?|Open the Comment pane and use the search tool to find a specific comment.
 You're finalizing a marketing report and realize that some sections are out of order. To improve readability, you need to rearrange the pages without manually recreating the document. What's the best way to do this in Acrobat?|Open the Organize Pages tool to drag and reorder the pages in the correct sequence.
