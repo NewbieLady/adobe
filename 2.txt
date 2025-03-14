@@ -1,4 +1,3 @@
-https://www.coursera.org/learn/generative-ai-content-creation/assignment-submission/xd1NA/final-assessment/attempt
 Which of the following best describes Adobe Firefly?|A generative AI feature that lets you instantly create professional images
 Which of the following best describes Generative Fill?|A feature that uses simple text prompts to quickly add, expand, or remove content from your images
 What role does generative AI play in packaging design for the toy industry?|It generates patterns, textures, and variations that align with branding and themes.
