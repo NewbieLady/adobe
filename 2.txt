@@ -1,0 +1,32 @@
+https://www.coursera.org/learn/generative-ai-content-creation/assignment-submission/xd1NA/final-assessment/attempt
+Which of the following best describes Adobe Firefly?|A generative AI feature that lets you instantly create professional images
+Which of the following best describes Generative Fill?|A feature that uses simple text prompts to quickly add, expand, or remove content from your images
+What role does generative AI play in packaging design for the toy industry?|It generates patterns, textures, and variations that align with branding and themes.
+Which of the following best describes the role of natural language prompts in generative AI?|They allow users to communicate with the AI using simple conversational sentences.
+How do creatives most often describe generative AI as fitting into their processes?|As a partner that supports and extends their creative abilities
+What's one of the key benefits of using generative AI at work?|It integrates into team workflows, allowing for collaboration and meeting project goals.
+Which of the following is a tangible way to use AI tools in Adobe Express?|Writing prompts to generate a text effect for a brochure
+What are some reasons to remove an object from an image?|Remove portions of your image for creative purposes.
+Which of the following describes the purpose of reference images?|They guide the look and feel for generated image variations.
+Which of the following is a Quick Action available in Adobe Express?|Resize images according to social media presets.
+Which of the following is a tip for managing complex prompts in generative AI?|Include quotes around grouped elements to treat them as a single concept.
+What's the difference between a style reference image and a composition reference image?|A style reference image ensures consistency in visual elements like color and texture, while a composition reference image focuses on layout and structure.
+What does the Loose setting do when applying text effects in Adobe Express?|Maintains the font shape with some overflow beyond the font's borders
+Which file formats support Content Credentials?|Common distribution formats such as PDF, JPEG, and MP4
+What is one of the biggest challenges that content authenticity initiatives seek to address?|Promoting misinformation and misrepresenting content origins are becoming increasingly easier to do.
+What are the three AI ethics principles that Adobe uses for Firefly development?|Accountability, responsibility, and transparency
+What's an example of confirmation bias?|Relying on preexisting beliefs or trends when collecting data
+Text effects are beneficial for which of the following reasons?|All of the above.
+Which of the following is a recommended way to assess the authenticity of an image?|Check for unusual lighting, shadows, pixelation, or misshapen objects.
+What does the Rewrite Text feature in Adobe Express allow you to do?|Rephrase, shorten, or lengthen text with style controls.
+How are Content Credentials embedded into creative files?|As metadata that travels with the file
+What are Style Kits?|A generative AI tool where team members can save, share, and reuse prompts, reference assets, and presets to ensure consistency across teams
+An ecommerce team needs to create versions of an advertisement for different social media platforms. Which Adobe generative AI capability would be most helpful?|Generate Image
+True or False. Adobe Firefly allows third parties to train on the content you create using the tool.|False
+Why is it important to think about bias when using generative AI tools?|It helps ensure the output reflects high standards of inclusion and respect.
+Which of the following is a reason for implementing guardrails for responsible generative AI usage?|All of the above
+Why might the training data of a generative AI model affect the quality of its results?|The training data determines the patterns and structures the AI learns, impacting its ability to create high-quality content.
+What's a key tip for creating effective prompts?|Include descriptors like style, tone, and lighting in your prompt.
+What are some reasons to insert an object into an image?|All of the above.
+What does "provenance" in digital content refer to?|The ability to verify the origin, history, and edits of digital content
+	

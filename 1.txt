@@ -1,0 +1,31 @@
+https://www.coursera.org/learn/design-fundamentals/assignment-submission/V4ANw/final-assessment/attempt
+Identify the key aspects of content creation: Content creation especially pertains to Radio broadcasts ​ . For businesses, content creation can mean crafting and delivering Newsletters, emails, webinars, and digital marketing materials ​ . For individuals, content creation can involve creating new content for Social media ​ .|
+Which media type is most appropriate for a visual-heavy project?|Infographics
+What is an effective strategy to fuel creativity in content creation?|Experimenting with new ideas
+What is an important factor when choosing fonts for a design project?|Alignment with design goals
+Which accessibility principle ensures enough contrast between text and background?|High-contrast colors
+What was the significant innovation of Gutenberg's printing press?|The use of movable type
+When navigating the design process, it is important to Select ​ appropriate media types, Navigate ​ the design process from planning to iteration, and Launch ​ the final product.|
+Identify the correct font pairing tips: Use only serif ​ fonts with a lighter serif or handwritten font to create contrast. Limit ​ the number of fonts you use to keep your design cohesive. Align ​ your font choices with your brand's message and the mood you want to create.|
+Which of the following design principles makes aspects of a design more distinct?|Contrast
+Which psychological effect is associated with the color red?|Excitement, passion, urgency
+To create effective color palettes, it is important to consider Color harmony ​ , understand Arbitrary ​ associations, and ensure Chaos ​ .|
+Identify the correct font types: Script ​ fonts are elegant and personal, often mimicking cursive handwriting. Monospace ​ fonts have characters that each take up the same amount of horizontal space. Decorative ​ fonts add a unique flair and are often used for special occasions.|
+Which file format is ideal for high-quality images with transparent backgrounds?|PNG
+What is the primary benefit of using color in marketing?|It impacts customer emotions and behavior
+Choose the correct color type for each description: Secondary ​ colors are created by mixing primary colors. Primary ​ colors form the basis of all other colors. Tertiary ​ colors add depth to your palette by mixing a primary color with a secondary color.|
+What is the primary purpose of the "Learn" step in the design process?|To gather information and inspiration
+What is the primary purpose of the rule of thirds in design?|To create a balanced and engaging composition
+Imagine you're designing a campaign for a non-profit organization. The goal is to ensure that the message of your design is clear and effectively communicated to the audience. Which aspect of unity should you focus on to achieve this?|Conceptual unity
+Which feature in Adobe Express allows you to combine multiple images into one design?|Color palette
+Identify the correct uses of media and elements in Adobe Express: Images and videos ​ can be set as a background or fill the entire canvas. Grids ​ can be added from the "Elements" tab and customized. Music tracks ​ help organize your design and ensure everything aligns perfectly.|
+What is a primary benefit of using templates in Adobe Express?|They streamline the design process while maintaining a professional look
+Identify the correct image effects in Adobe Express: Darken ​ deepens the tones in your image, adding intensity and drama. Tint ​ adds a subtle color overlay to your image. Duotone ​ combines two contrasting colors to create a striking look.|
+What is a key consideration when resizing designs for different social media platforms?|Adapting to platform-specific dimensions
+What should you consider when using the "Translate" feature in Adobe Express?|Cultural nuances and context
+Identify the correct uses of Quick Actions in Adobe Express: Resize ​ an image for a social media post. Remove ​ a background from an image. Convert ​ a file format to make it easier to work with different types of media.|
+What does the "Generate QR Code" Quick Action do in Adobe Express?|It creates a QR code that can link to a website, product, or event
+What is the first step in building a brand?|Defining your brand's mission and values
+What is the primary benefit of using vector shapes in logo design?|They scale to any size without losing quality
+What is the first step to create a brand kit from scratch in Adobe Express?|Navigate to Brands and select Create brand
+Which portfolio element is used to showcase skills?|Examples of work
